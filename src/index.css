@@ -24,7 +24,7 @@ body, select, input, textarea{
   grid-template-columns: 1fr;
   height:100%;
 }
-a:hover{
+a:hover{ 
   color:#ff8000;
 }
 header a{
